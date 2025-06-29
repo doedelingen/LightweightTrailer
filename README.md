@@ -6,6 +6,7 @@ If not all goals can be met, the top ones are to be prioritized (AKA no point if
 
 Project Goals:
   1. Tow weight less than 2500 lbs (Subaru Forester)
+    a) incorrect, in the US it only has a 1500lb capacity. Around 3000lbs in europe/australia).
   2. Total cost less than $5000
   3. Full or Queen size bed
   4. Room to stand, a sink, and a toilet
